@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3 align="left" vertical-align= "middle"><img src="static/codegif.webp" width ="25">   Languages and Tools - #foreverlearner:<img src="static/statsgif.webp" width="35"></h3>
+<h3><img src="static/codegif.webp" width="25"> Languages and Tools - #foreverlearner:<img src="static/statsgif.webp" width="35"></h3>
+
 
 <p align="left">
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;       
-     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;&nbsp;    
+     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;&nbsp;    
      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;  
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>&nbsp;&nbsp;
@@ -58,5 +59,6 @@ Here are some ideas to get you started:
 
 
 <h3 align="left "> 📫 How to reach me :</h3>
-    <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;&nbsp;
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
+   <a href="mailto:s.manojmurali@gmail.com">  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;&nbsp;
+       <a href="http://www.linkedin.com/in/manoj-murali-2036451a6" target="_blank" rel="noopener noreferrer"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;
+    </a> 
