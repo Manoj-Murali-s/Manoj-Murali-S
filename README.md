@@ -21,9 +21,9 @@ Here are some ideas to get you started:
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
-<div style='display:flex;align-items:center;gap:20px;'>
-<img src="static/codegif.webp" width ="25">
-<h3 align="left ">   Languages and Tools - #foreverlearner:</h3><img src="static/statsgif.webp" width="35"></div>
+
+
+<h3 align="left" vertical-align= "middle"><img src="static/codegif.webp" width ="25">   Languages and Tools - #foreverlearner:<img src="static/statsgif.webp" width="35"></h3>
 
 <p align="left">
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -35,11 +35,12 @@ Here are some ideas to get you started:
      <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>&nbsp;&nbsp;
     
 
-
+</p><p>
    <a href="https://github.com/manoj-murali-s">
               <img height=20 width=10% src="static/divider.gif">
           </a>
-   <br>
+          </p>
+   <p>
      <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> &nbsp;&nbsp;
      <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp;
      <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;
